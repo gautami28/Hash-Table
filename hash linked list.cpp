@@ -116,7 +116,6 @@ int main()
 	for(int i=0;i<size;i++)
 	{
 		int a;
-		string name;
 		cout<<"enter numbers: "<<endl;
 		cin>>a;
 		h.add(a);
